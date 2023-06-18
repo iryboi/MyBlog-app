@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MyBlog - Home</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to MyBlog</h1>
+    </header>
+    <main>
+        <p>This is the homepage of MyBlog.</p>
+    </main>
+    <script src="js/main.js"></script>
+</body>
+</html>
